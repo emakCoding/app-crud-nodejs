@@ -1,7 +1,5 @@
 /** @format */
 
-// import {error} from "node:console";
-// import {error} from "node:console";
 import * as fs from "node:fs";
 import {v4 as uuidv4} from "uuid";
 uuidv4();

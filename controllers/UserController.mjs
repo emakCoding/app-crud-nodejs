@@ -1,7 +1,7 @@
 /** @format */
 
 // import User from "../models/UserModel.js";
-import {loadData, addData, findData, deleteData, editDatas} from "../utils/data.js";
+import {loadData, addData, findData, deleteData, editDatas} from "../utils/data.mjs";
 
 export const getUsers = async (req, res) => {
   try {

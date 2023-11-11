@@ -2,7 +2,7 @@
 
 import express from "express";
 import cors from "cors";
-import UserRoute from "./routes/UseRoute.js";
+import UserRoute from "./routes/UseRoute.mjs";
 // import {loadData, findData, addData} from "./utils/data.js";
 
 const app = express();
